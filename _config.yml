@@ -99,14 +99,6 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: next
 
-# Deployment
-## Docs: https://hexo.io/docs/one-command-deployment
-deploy:
-  type: ''
-  repo: git@gitee.com:luscio/blog.git
-  branch: master
-  message: blog update
-
 # local search
 search:
   path: search.xml
